@@ -5,7 +5,7 @@ Product Designer designing intuitive digital experiences that solve real problem
 Currently designing fintech, AI, and blockchain products while building side projects that make everyday experiences more engaging.
 
 ## Currently building
-- 📚 Lorelane — A social reading platform with daily book challenges and AI-powered discovery.
+- 📚 Lorelane — A web app that delivers a new book-guessing challenge every day, encouraging readers to discover books and build a daily reading habit.
 
 ## Tools I use
 - Figma
